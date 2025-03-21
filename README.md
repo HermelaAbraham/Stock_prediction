@@ -22,4 +22,4 @@ This project explores the historical price movement of selected stocks (e.g., Ap
 
 ## 📁 Project Structure
 
-
+This will be Python based
